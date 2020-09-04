@@ -1,0 +1,21 @@
+{
+  "name": "vega-embed-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "vega": "^5.13.0",
+    "vega-embed": "^6.9.0",
+    "vega-label": "0.0.5",
+    "vega-lite": "^4.13.1"
+  },
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.0.2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "search.exclude": {
+    "dist": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true
+}
